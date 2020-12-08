@@ -5,6 +5,5 @@ sections:
     title: Contact
     align: center
   - type: contact_section
-  - type: contact_section
 layout: advanced
 ---
